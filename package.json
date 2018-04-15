@@ -1,0 +1,11 @@
+{
+  "name": "trainingcode",
+  "version": "1.0.0",
+  "description": "It is my training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VK",
+  "license": "ISC"
+}
